@@ -23,7 +23,7 @@ $ npm run dev
 
 ## Support
 
-Dojotek AuditCloud is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please contact us by e-mail.
+Dojotek™ AuditCloud is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please contact us by e-mail.
 
 ## Stay in touch
 
@@ -33,4 +33,4 @@ Dojotek AuditCloud is an MIT-licensed open source project. It can grow thanks to
 
 ## License
 
-Dojotek AuditCloud is [MIT licensed](LICENSE).
+Dojotek™ AuditCloud is [MIT licensed](LICENSE).
