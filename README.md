@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="http://dojotek.id/" target="blank"><img src="https://dojotek.id/content/images/size/w600/2020/04/dojotek-id-logo.png" width="320" alt="Dojotek Logo" /></a>
+</p>
 
-## Getting Started
+  <p align="center">A generic and holistic audit tool for your company collaborative efforts.</p>
 
-First, run the development server:
+## Description
+
+[Dojotek](https://dojotek.id) AuditCloud web-app (Next.js) repository.
+
+## Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Running the app
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# development
+$ npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Support
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Dojotek AuditCloud is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please contact us by e-mail.
 
-## Learn More
+## Stay in touch
 
-To learn more about Next.js, take a look at the following resources:
+- Author - [Andy Primawan](https://www.linkedin.com/in/andy-primawan/)
+- Website - [https://dojotek.id](https://dojotek.id/)
+- Twitter - [@andypmw](https://twitter.com/andypmw)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Dojotek AuditCloud is [MIT licensed](LICENSE).
